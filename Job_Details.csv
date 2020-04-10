@@ -1,0 +1,46 @@
+Job Id,Job Title,Keywords,Minimum Experience in years,Maximum Experience in Years,Minimum Annual Salary,Maximum Annual Salary,Currency,Must Haves,Company Name,Founded Year,Employee Count,Job Location,Industry,Function,Required Education (UG),Required Education (PG),Notice Period (Days)
+194,Full stack engineer,"java,Angular,Jquery,j2ee,microservices,micro services,spring,struts,mysql,mongoDB,mongo DB,javascript",2,5,6,15,INR,,Company X,2011,362,Hyderabad,IT | Computer Software,IT Software,B.Tech/B.E.,,60
+481,Senior Java Engineer/Tech Lead,"J2EE,Java,Hibernate,Webervices,REST Services,Spring",7,10,10,15,INR,"Should have proficient Java server side programming experience  - multi threading and sockets, proficient with MYSQL database and experience managing a team.",Company X,2011,362,Hyderabad,IT | Computer Software,IT Software,Other UG,Not Required,30
+839,Front End Developer,,2,5,4,8,INR,The candidate must have at least 2 years of software development experience in a product company.,Company X,2011,362,Bengaluru/Bangalore,IT | Information Technology and Services,IT Software,Undergraduate (engineering),,30
+723,Application Developer,"c#, asp.net, sql, java, html5",3,8,4,9,INR,"The Application Developer is a role within the Technology team responsible for the design, development, deployment and support of mobile, web, desktop and server business solutions that support NCBA‚Äôs digital business goals. The position requires solid knowledge of Mobile, web, desktop & server (orchestration layer) technologies. The role holder should be able to deliver across the entire development life cycle from concept, design, build, deploy, test, release to app stores and support. This is a role that requires prototyping skills, excellent interpersonal skills, the ability to work as part of an agile team, to manage competing priorities, design solutions as part of a larger roadmap and to be hands on in supporting implemented technologies.
+
+Responsibilities
+
+	The effective execution of the role‚Äôs responsibilities should enhance the NCBA brands by delivering on the below key responsibilities;
+	The design/analysis, development, delivery and ongoing improvement of all Application development processes (40%)
+	Apply knowledge and experience, showing deep understanding of Application Development Standards to assist business and product teams develop products that solve business needs (20%)
+	Adherence to internal policies and procedures for the development and management of NCBA Application Development process along ITIL and other best practice standards (10%)
+	Support, maintain and audit existing service lifecycle artifacts, to agreed SLAs (10%)
+	Effective management of relationships and protocols with other technical platform owners and internal business owners (10%)
+	Advise internal customers on technology improvements that will ensure realization and maximization of business objectives (10%)
+	Takes a structured and effective approach to own work and demonstrates leadership potential.
+	Is able to analyze, diagnose, plan, execute and evaluate work to time, cost and quality targets, exhibiting familiarity with available tools, standards and procedures and making correct choices from alternatives.
+	Effective communicator, able to guide and advise clients and business partners.
+	Astute at planning for mission critical production activities.
+	Good understanding of Application Development concepts and technologies: Java, C, C++, C#, Android, IOS, HTML5, Angular JS
+	Self-empowerment to enable development of open communication, teamwork and trust that are needed to support true performance and customer-service oriented culture.
+	Knowledge and experience with ITIL as a best practice framework for IT Service Management.
+	Knowledge and effective application of all relevant banking policies, processes, procedures and guidelines to consistently achieve required compliance standards or benchmarks.
+
+Qualifications
+
+	An undergraduate degree or its equivalent in a Technology related field i.e. Computer science, Information Technology, Software engineering.
+	5 years within a large highly digitized environment designing, implementing and managing mission critical systems, with at least 2 years actively developing applications.
+	Strong knowledge and hands-on experience of the following:
+	Application back-end development using Oracle Database, SQL, PL/SQL o Application/Web Server experience with WebLogic, JBoss, Apache, express
+	Hands on experience developing software development using Java, C, C++, C#, Python o Hands on experience developing Android, IOS, Windows Mobile and Hybrid mobile applications.
+	Hands on experience in Web Development (AngularJS, NodeJS, Asp.Net) and Web Servers (Apache, Tomcat, IIS and Nginx)
+	Automated Testing tools e.g. espresso, robotium, protractor
+	Continuous build/Integration tools e.g. Jenkins/Bamboo
+	Issue/bug tracking tools e.g. JIRA
+	Working Knowledge of Unix or Linux Operating systems e.g. Solaris, Cent OS
+	Experience and Knowledge of Shell scripting in Unix or Linux environment as well as Windows
+	Basic Oracle and SQL Server Database Administration
+	Certification and experience implementing best practice frameworks e.g. ITIL, PRINCE2
+	Excellent analytical, problem solving and reporting skills
+	Proficiency in project management.
+	Ability to build and nurture partnerships with internal and external stakeholders.
+	Highly analytical thinker with experience in both quantitative and qualitative CX testing methods.
+	Skilled at developing business cases and quantifying the cost/benefit of user experience enhancement projects in a Digital environment.
+	Strong strategic and critical thinking skills.
+	Must be an expert problem solver committed to driving results and multiple concurrent projects to success.",Company X,2011,362,Bengaluru ,IT | Information Technology and Services,IT Software,B.Tech/B.E.,,30
